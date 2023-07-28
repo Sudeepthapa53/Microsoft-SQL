@@ -138,7 +138,7 @@ Order by PropertyAddress
 SELECT *
 From PortfolioProject.dbo.NashvilleHousing
 
---Delte unused columns
+--Delete unused columns
 
 SELECT *
 From PortfolioProject.dbo.NashvilleHousing
